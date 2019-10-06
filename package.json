@@ -18,6 +18,7 @@
   "homepage": "https://github.com/seanhellier/wordguess-node#readme",
   "dependencies": {
     "colors": "^1.4.0",
+    "dotenv": "^8.1.0",
     "inquirer": "^7.0.0"
   }
 }
